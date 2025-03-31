@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "30245457-41D5-4401-A52B-9A8F384821B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F735E9D1-1CE7-48ED-B6BA-D0BD22E9A3CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stack/HansStackObject.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "+getZhStock:withType:withLen:completion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F735E9D1-1CE7-48ED-B6BA-D0BD22E9A3CE - 3aee22cb830cd1ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56+[HansStackObject getZhStock:withMa:withLen:completion:]_block_invoke"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansStackObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "F735E9D1-1CE7-48ED-B6BA-D0BD22E9A3CE - a2e150e3d28069c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__58+[HansStackObject getZhStock:withType:withLen:completion:]_block_invoke"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansStackObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "1C54C27D-AC8B-49A6-9824-F13DEF423356"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F68AF3A-8B1B-41F0-9216-7DC51B5AA824"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stack/HansStockSuggestItem.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-initWithString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F68AF3A-8B1B-41F0-9216-7DC51B5AA824 - 8921fb0a9a0b8516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HansStockSuggestItem initWithString:]"
+                  moduleName = "stack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansStockSuggestItem.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "4F68AF3A-8B1B-41F0-9216-7DC51B5AA824 - 8921fb0a9a0b8516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HansStockSuggestItem initWithString:]"
+                  moduleName = "stack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansStockSuggestItem.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "4F68AF3A-8B1B-41F0-9216-7DC51B5AA824 - 8921fb0a9a0b85d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HansStockSuggestItem initWithString:]"
+                  moduleName = "stack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansStockSuggestItem.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC4081B7-FCBB-4CFC-8EBE-444653E017B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stack/HansKObject.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "+kObjectsFromWebAPI:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC4081B7-FCBB-4CFC-8EBE-444653E017B4 - 1ff235ace0c3a467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectsFromWebAPI:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "CC4081B7-FCBB-4CFC-8EBE-444653E017B4 - 1ff235ace0c3a467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectsFromWebAPI:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "CC4081B7-FCBB-4CFC-8EBE-444653E017B4 - 1ff235ace0c3a467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectsFromWebAPI:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "CC4081B7-FCBB-4CFC-8EBE-444653E017B4 - 1ff235ace0c3a480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectsFromWebAPI:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13CB30CD-2483-4E34-B41E-1D6C81820A95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stack/HansKObject.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "+kObjectFromFenshi:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13CB30CD-2483-4E34-B41E-1D6C81820A95 - 1aa5942ad38a4922"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject average:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "13CB30CD-2483-4E34-B41E-1D6C81820A95 - 884c3f86a5cc37ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectFromFenshi:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "13CB30CD-2483-4E34-B41E-1D6C81820A95 - 884c3f86a5cc376d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HansKObject kObjectFromFenshi:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04B02D75-0E44-402D-948F-1CDCD2CF0860"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stack/HansKObject.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "-initWithMinuteLine:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04B02D75-0E44-402D-948F-1CDCD2CF0860 - a171ee6ae3292ddc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HansKObject initWithMinuteLine:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "04B02D75-0E44-402D-948F-1CDCD2CF0860 - a171ee6ae3292ddc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HansKObject initWithMinuteLine:]"
+                  moduleName = "stock"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayu/Documents/stack/stack/HansKObject.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
